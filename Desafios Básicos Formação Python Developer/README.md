@@ -13,7 +13,7 @@ Abaixo estão os links para os desafios:
 <div align="left">
 	<table border=1>
 		<tr>
-			<th colspan="4">Aceleração Global Dev #18 - GFT</th>
+			<th colspan="4">Geração Tech Unimed-BH - Ciência de Dados</th>
 		</tr>
 		<tr>
 			<th>Etapa</th>
@@ -23,9 +23,9 @@ Abaixo estão os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">1</td>
-			<td>As Duas Torres</td>
+			<td>Encaixa ou Não</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/duasTorres.py">
+				<a href="https://github.com/Guih1993/BootCamp-Python-Developer/blob/main/Desafios%20B%C3%A1sicos%20Forma%C3%A7%C3%A3o%20Python%20Developer/Encaixa%20ou%20N%C3%A3o.py">
 					Código
 				</a>
 			</td>
@@ -33,9 +33,9 @@ Abaixo estão os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">2</td>
-			<td>Cachorros-Quentes</td>
+			<td>Mês</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/cachorroQuente.py">
+				<a href="https://github.com/Guih1993/BootCamp-Python-Developer/blob/main/Desafios%20B%C3%A1sicos%20Forma%C3%A7%C3%A3o%20Python%20Developer/M%C3%AAs.py">
 					Código
 				</a>
 			</td>
@@ -43,9 +43,9 @@ Abaixo estão os links para os desafios:
 		</tr>
 		<tr>
 			<td align="center">3</td>
-			<td>Cálculo de viagem</td>
+			<td>Tuitando</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Iniciais%20PY%20-%20Unimed-BH/calculoViagem.py">
+				<a href="https://github.com/Guih1993/BootCamp-Python-Developer/blob/main/Desafios%20B%C3%A1sicos%20Forma%C3%A7%C3%A3o%20Python%20Developer/Tuitando.py">
 					Código
 				</a>
 			</td>
